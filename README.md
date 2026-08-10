@@ -17,3 +17,4 @@ We have pulled six years of daily price data (1 Jan 2020 – 4 June 2026) for 10
 ## The 3 pages
 
 **1. Stocks Analytics Dashboard** — Overview of Latest, Maximum, Minimum and Average closing prices across all 10 stocks, daily returns split by sector, and a high-low range area
+[Stocks Analytics Dashboard](Screenshots/dashboard-overview.png)
